@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Sri Charani Porandla
 
-<!--
-**sricharani-10101/sricharani-10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech, Electronics and Communications (ECE Core)
 
-Here are some ideas to get you started:
+VIT Bhopal, First Year Student 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Expected Graduation: 2029
+
+## About Me
+
+I am a passionate student who wants to explore in this field and learn how truely electronics work around us. 
+I am interested in embedded systems, communication technologies, and practical problem-solving. 
+I enjoy applying Python and programming concepts to build simple, real-world solutions. I aim to strengthen my technical skills and work on projects that integrate electronics with software.
+
+*Connect with Me*
+
+-LinkedIn: www.linkedin.com/in/sri-charani-porandla-60175937a/
